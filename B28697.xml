@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons and considerations humbly proposed, why no Act of Attainder should extend to make a forfeiture of that part of the estate of Sir John Danvers deceased, which is come to his onely son Mr. John Danvers an infant.</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28697</idno><idno type="EEBO-CITATION">99887491</idno>
+  <idno type="VID">190461</idno>
+  <idno type="EEBO-PROQUEST">2240896401</idno>
+  
+            <idno type="STC">Wing R478A</idno>
+            <idno type="STC">Interim Tract Supplement Guide L.R.305.a.7.[13]</idno>
+            <idno type="STC">ESTC R227750</idno>
+            <idno type="PROQUEST">ocm99887491</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99887491e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28697)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 190461)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C21:2[62])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons and considerations humbly proposed, why no Act of Attainder should extend to make a forfeiture of that part of the estate of Sir John Danvers deceased, which is come to his onely son Mr. John Danvers an infant.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing CD-ROM, 1996.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Land tenure --  England --  Early works to 1800.</term>
+               <term type="topical_term">Real property --  England --  Early works to 1800.</term>
+               <term type="topical_term">Estates (Law) --  Cases --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Renee Mayes </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Renee Mayes</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:190461:1"/>
+            <head>Reasons and Considerations humbly proposed, why no Act of At<g ref="char:EOLhyphen"/>tainder should extend to make a Forfeiture of that part of the Estate of Sir <hi>John Danvers</hi> deceased, which is come to his one<g ref="char:EOLhyphen"/>ly Son Mr. <hi>John Danvers</hi> an Infant.</head>
+            <p n="1">1. FIrst, Mr. <hi>John Danvers</hi> is onely Heir of that Antient and Noble Family of the <hi>Danvers's,</hi> and Heir to the late Earl of <hi>Dauby</hi> his Uncle, and hath, with all that was left nim by his Father (Sir <hi>John Danvers</hi>) but a moderate Fortune, to support the Dignity and Memory of his Family.</p>
+            <p n="2">2. His Father, Sir <hi>John Danvers,</hi> though in his life-time owner of a very great Estate, was so wrought upon by some about him, as to settle his Estate in such manner, as that his then <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ldest son, Mr. <hi>Henry Danvers,</hi> since deceased, had power to dispose of, and did dispose of all of it by Will, (saving about twelve hundred Pounds <hi>per Annum</hi>) from his said Father, and from his onely Brother, and from the name of <hi>Danvers,</hi> to his Sisters; and that during his minority, and in the life-time of his Father; and then dyed under age, and unmarried. By this means, Mr. <hi>Villers,</hi> (sometimes called Viscount <hi>Pur<g ref="char:EOLhyphen"/>beck,</hi> who married one of the Daughters) and the children of the other Daughter (the Lady <hi>Lee</hi>) go away with far the greatest part of Sir <hi>John Danver</hi>'s Estate, and about 1200 l. <hi>per Annum</hi> and no more, is with much ado rescued from that settlement, to de<g ref="char:EOLhyphen"/>scend and come to Mr. <hi>John Danvers,</hi> the Heir of the Family, out of which his Mother hath a Joynture of about 500 l. <hi>per Annum,</hi> and 340 l. <hi>per Annum</hi> is paid out of it for Annuities and Rent-charges.</p>
+            <p n="3">3. The small Estate that belongs to this young Gentleman was not first acquired by Sir <hi>John Danvers,</hi> (his Father) but was formerly part of the Earl of <hi>Dauby</hi>'s Estate, and belonging to the Family of the <hi>Danvers</hi>'s.</p>
+            <p n="4">4. Mr. <hi>John Danvers</hi> is but of the age of Nine or Ten years, or thereabouts, and by this means in some incapacity to make friends, and unable to defend his small Estate, (his near kindred being such as have gained the Estate from him, and been engaged in Sutes with him about the Estate) are therefore likely to prove enemies rather than assi<g ref="char:EOLhyphen"/>stants to him.</p>
+            <p n="5">5. The Lady <hi>Danvers</hi> (Mother of the said Infant) is very well known to be of a dif<g ref="char:EOLhyphen"/>ferent Inclination and Judgment from her late Husband; and in the Education of her Son (her onely child) hath instructed him in better Principles.</p>
+            <p n="6">6. And in the promoting of that Designe for his Majestie, for which Doctor <hi>Hewet</hi> was so bloodily murthered, she testified her good Affection to his Majestie's Cause, and her Loyalty towards his Majestie, by sending him 200 l. to advance his Majestie's ser<g ref="char:EOLhyphen"/>vice.</p>
+            <p n="7">7. And his Majestie's Enemies then in power, conceived her to be no friend to their unrighteous Cause, insomuch that about the time of Sir <hi>George Booth's</hi> late appearing in Arms, she the said Lady <hi>Danvers,</hi> amongst others, was suspected, her house searched by Souldiers, and she her self carried before the then Councell of State; And a Kinsman of hers, who for divers years hath lived with her in her House, who is a person that hath ever been very active in his faithful service and loyalty to his Majestie, whom his Majesty, since his happy Return, hath frequently owned to be a preserver of his Majestie's life, when his Majestie was in greatest danger.</p>
+            <p n="8">8. And the said Lady hath, for divers years, intrusted the education of her onely Child, and the direction of her whole Family in matters of Religion, to Doctor <hi>Mere<g ref="char:EOLhyphen"/>dith,</hi> a person eminent in his Sufferings for his Majestie's Father, who hath for all that time lived in the house with the said Lady <hi>Danvers,</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
